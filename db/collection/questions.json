@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "636d469685412727fe2d54dd"
+  },
+  "title": "How many times have AC Milan won the champions league ?",
+  "description": "lorem ipsum dolor sit amet lorem lorem ipsum",
+  "user": {
+    "$oid": "636d23b71383a9fd876a440d"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668105878554"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668137912661"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636dbe9f6265035f9b3c6e81"
+  },
+  "title": "What is Question 2 ?",
+  "description": "lorem ipsum dolor sit amet",
+  "user": {
+    "$oid": "636d23b71383a9fd876a440d"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668136607887"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668136607887"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636dc1f06dc13ea85ff3b370"
+  },
+  "title": "What is Question 3 ?",
+  "description": "lorem ipsum dolor sit amet",
+  "user": {
+    "$oid": "636d23b71383a9fd876a440d"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668137456303"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668137456303"
+    }
+  },
+  "__v": 0
+}]
